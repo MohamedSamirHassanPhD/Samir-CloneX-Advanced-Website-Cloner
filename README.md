@@ -1,6 +1,5 @@
 # 🚀 Samir CloneX – Advanced Website Cloner  
 **A powerful and intelligent website cloning tool built by Mohamed Samir Hassan.**
-Note: that is the not the full code but the full code availbe when requered as a referance.
 Samir CloneX is an advanced, fully automated website cloner that can download **all types of website files**, including:
 
 - HTML / CSS / JS  
@@ -12,6 +11,7 @@ Samir CloneX is an advanced, fully automated website cloner that can download **
 - API responses (optional)  
 
 This tool is designed for **developers, researchers, penetration testers, and digital archivists** who want to study or replicate website structures.
+Note: This is not the full code. The complete source code is available upon request for reference.
 
 ---
 
